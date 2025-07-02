@@ -1,16 +1,16 @@
-👋 Hey there, I'm Rajitha Reddy!
+**👋 Hey there, I'm Rajitha Reddy!**
 
-🎯 Aspiring AI/ML Engineer & Data Science Enthusiast
+**🎯 Aspiring AI/ML Engineer & Data Science Enthusiast**
 
 ---
-💡 About Me
+**💡 About Me**
 
 Passionate about building intelligent solutions with AI and Machine Learning.
 
 Turning data into decisions and algorithms into real-world applications.
 
 ---
-🧠 My Expertise
+**🧠 My Expertise**
 
 ✅ Supervised & Unsupervised ML | Feature Engineering | Hyperparameter Tuning
 
@@ -23,34 +23,34 @@ Turning data into decisions and algorithms into real-world applications.
 ✅ Deployment: Flask, FastAPI, Docker, Kubernetes, MLOps
 
 ---
-🚀 Tech Stack & Tools
+**🚀 Tech Stack & Tools**
 
-💻 Programming & Scripting:
+**💻 Programming & Scripting:**
 
 Python
 
 
-🧮 Data Science & ML:
+**🧮 Data Science & ML:**
 
 Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch, Keras
 
 
-☁️ Cloud & Big Data:
+**☁️ Cloud & Big Data:**
 
 AWS, Google Cloud, Azure, Hadoop, Spark
 
 
-🗄️ Databases:
+**🗄️ Databases:**
 
 SQL, MongoDB
 
 
-📊 Visualization:
+**📊 Visualization:**
 
 Matplotlib, Seaborn, Power BI, Tableau
 
 ---
-🧑‍🎓 Certifications
+**🧑‍🎓 Certifications**
 
 🧠 Certified Data Scientist – IABAC
 
